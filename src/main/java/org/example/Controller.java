@@ -3,6 +3,7 @@ package org.example;
 import java.util.Scanner;
 
 public class Controller {
+
 Scanner entrada = new Scanner(System.in);
 
 String nome;
